@@ -4,6 +4,13 @@
 > **Créditos y licencia.** Port y mantenimiento por [JackStar6677-1](https://github.com/JackStar6677-1) y [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Autores originales: en verificacion, ver docs/UPSTREAM_ATTRIBUTION.md. Licencia: **GNU Lesser General Public License v3.0**. Detalle en [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md).
 <!-- credits:end -->
 
+<!-- legacy-notice:start -->
+> [!WARNING]
+> **Legacy / Superseded Repository (Not Archived)**
+> **EN:** Historical Season 1 library/framework port. Active development has moved to [SlimefunNewHorizons/Drakes-Suites](https://github.com/SlimefunNewHorizons/Drakes-Suites) (`drakes-core`) and [Slimefun6](https://github.com/SlimefunNewHorizons/Slimefun6) on Paper/Purpur `26.2`. This repository is intentionally kept unarchived for historical reference, upstream attribution, and git history.
+>
+> **ES:** Port histórico de librería/framework de Temporada 1. El desarrollo activo continúa en [SlimefunNewHorizons/Drakes-Suites](https://github.com/SlimefunNewHorizons/Drakes-Suites) (`drakes-core`) y [Slimefun6](https://github.com/SlimefunNewHorizons/Slimefun6) en Paper/Purpur `26.2`. Este repositorio se mantiene intencionalmente sin archivar como referencia histórica, atribución upstream e historial de git.
+<!-- legacy-notice:end -->
 <p align="center">
   <img src="banner.svg" width="100%" alt="REBAR-DRAKE Animated Banner" />
 </p>
